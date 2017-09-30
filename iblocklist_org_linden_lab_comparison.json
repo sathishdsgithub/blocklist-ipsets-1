@@ -1,0 +1,56 @@
+[
+	{
+		"name": "dronebl_ddos_drones",
+		"category": "attacks",
+		"ips": 366964,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_isp_att",
+		"category": "organizations",
+		"ips": 55845128,
+		"common": 8
+	},
+	{
+		"name": "iblocklist_isp_qwest",
+		"category": "organizations",
+		"ips": 15777552,
+		"common": 8
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762560341,
+		"common": 23600
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346477051,
+		"common": 1024
+	},
+	{
+		"name": "iblocklist_org_blizzard",
+		"category": "organizations",
+		"ips": 16795139,
+		"common": 8
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 16801,
+		"common": 9
+	},
+	{
+		"name": "sorbs_new_spam",
+		"category": "spam",
+		"ips": 35223,
+		"common": 1
+	},
+	{
+		"name": "sorbs_recent_spam",
+		"category": "spam",
+		"ips": 545338,
+		"common": 35
+	}
+]

@@ -1,0 +1,20 @@
+{
+	"ipset": "hphosts_hjk",
+	"started": 1423919560000,
+	"updated": 1466617661000,
+	"incomplete": 1,
+	"past": {
+		"hours": [  ],
+		"ips": [  ],
+		"total": 0
+	},
+	"current": {
+		"hours": [ 
+			0,
+			11861 ],
+		"ips": [ 
+			26,
+			31 ],
+		"total": 57
+	}
+}

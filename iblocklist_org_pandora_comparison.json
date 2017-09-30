@@ -1,0 +1,20 @@
+[
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34743757,
+		"common": 1
+	},
+	{
+		"name": "hphosts_psh",
+		"category": "reputation",
+		"ips": 32666,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762560341,
+		"common": 2048
+	}
+]

@@ -1,0 +1,54 @@
+[
+	{
+		"code": "AU",
+		"value": 12
+	},
+	{
+		"code": "CA",
+		"value": 15
+	},
+	{
+		"code": "CN",
+		"value": 20
+	},
+	{
+		"code": "DE",
+		"value": 1
+	},
+	{
+		"code": "GB",
+		"value": 1
+	},
+	{
+		"code": "HK",
+		"value": 3
+	},
+	{
+		"code": "IS",
+		"value": 1
+	},
+	{
+		"code": "IT",
+		"value": 1
+	},
+	{
+		"code": "LU",
+		"value": 1
+	},
+	{
+		"code": "NL",
+		"value": 22
+	},
+	{
+		"code": "RO",
+		"value": 1
+	},
+	{
+		"code": "US",
+		"value": 95
+	},
+	{
+		"code": "VN",
+		"value": 2
+	}
+]

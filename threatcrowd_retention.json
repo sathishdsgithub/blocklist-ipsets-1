@@ -1,0 +1,28 @@
+{
+	"ipset": "threatcrowd",
+	"started": 1458581455000,
+	"updated": 1479291521000,
+	"incomplete": 1,
+	"past": {
+		"hours": [ 
+			335,
+			4932 ],
+		"ips": [ 
+			3,
+			2 ],
+		"total": 5
+	},
+	"current": {
+		"hours": [ 
+			0,
+			335,
+			5267,
+			5753 ],
+		"ips": [ 
+			393,
+			3407,
+			287,
+			2296 ],
+		"total": 6383
+	}
+}

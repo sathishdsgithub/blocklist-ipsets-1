@@ -1,0 +1,38 @@
+[
+	{
+		"code": "ARIN",
+		"value": 512
+	},
+	{
+		"code": "BACKBONE",
+		"value": 510
+	},
+	{
+		"code": "CA",
+		"value": 10498
+	},
+	{
+		"code": "DE",
+		"value": 2592
+	},
+	{
+		"code": "EU",
+		"value": 144
+	},
+	{
+		"code": "GB",
+		"value": 99008
+	},
+	{
+		"code": "NL",
+		"value": 80
+	},
+	{
+		"code": "SA",
+		"value": 128
+	},
+	{
+		"code": "US",
+		"value": 16665984
+	}
+]

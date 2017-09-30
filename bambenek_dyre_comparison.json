@@ -1,0 +1,20 @@
+[
+	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 272,
+		"common": 1
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 666203092,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 139023007,
+		"common": 1
+	}
+]

@@ -1,0 +1,18 @@
+{
+	"ipset": "bambenek_cl",
+	"started": 1438283101000,
+	"updated": 1495238701000,
+	"incomplete": 0,
+	"past": {
+		"hours": [ 
+			1 ],
+		"ips": [ 
+			3 ],
+		"total": 3
+	},
+	"current": {
+		"hours": [  ],
+		"ips": [  ],
+		"total": 0
+	}
+}

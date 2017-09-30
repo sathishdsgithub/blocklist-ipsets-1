@@ -1,0 +1,54 @@
+[
+	{
+		"code": "AU",
+		"value": 66560
+	},
+	{
+		"code": "CA",
+		"value": 198912
+	},
+	{
+		"code": "CN",
+		"value": 135168
+	},
+	{
+		"code": "COUNTRYLESS",
+		"value": 1792
+	},
+	{
+		"code": "ES",
+		"value": 61440
+	},
+	{
+		"code": "IT",
+		"value": 65536
+	},
+	{
+		"code": "JP",
+		"value": 65536
+	},
+	{
+		"code": "MX",
+		"value": 4096
+	},
+	{
+		"code": "NL",
+		"value": 65536
+	},
+	{
+		"code": "RO",
+		"value": 1024
+	},
+	{
+		"code": "RU",
+		"value": 512
+	},
+	{
+		"code": "US",
+		"value": 1040900
+	},
+	{
+		"code": "ZA",
+		"value": 196864
+	}
+]
