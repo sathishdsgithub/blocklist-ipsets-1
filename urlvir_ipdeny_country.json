@@ -4,6 +4,10 @@
 		"value": 4
 	},
 	{
+		"code": "BG",
+		"value": 1
+	},
+	{
 		"code": "BR",
 		"value": 3
 	},
@@ -37,7 +41,7 @@
 	},
 	{
 		"code": "GB",
-		"value": 4
+		"value": 5
 	},
 	{
 		"code": "ID",
@@ -53,15 +57,15 @@
 	},
 	{
 		"code": "IR",
-		"value": 4
-	},
-	{
-		"code": "IT",
 		"value": 5
 	},
 	{
+		"code": "IT",
+		"value": 6
+	},
+	{
 		"code": "JP",
-		"value": 2
+		"value": 3
 	},
 	{
 		"code": "KR",
@@ -78,6 +82,10 @@
 	{
 		"code": "NL",
 		"value": 6
+	},
+	{
+		"code": "NO",
+		"value": 1
 	},
 	{
 		"code": "PL",
@@ -117,7 +125,7 @@
 	},
 	{
 		"code": "US",
-		"value": 53
+		"value": 60
 	},
 	{
 		"code": "VN",

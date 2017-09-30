@@ -1,7 +1,7 @@
 {
 	"ipset": "php_commenters_1d",
 	"started": 1437247819000,
-	"updated": 1506790829000,
+	"updated": 1506876006000,
 	"incomplete": 0,
 	"past": {
 		"hours": [ 
@@ -336,13 +336,15 @@
 		"hours": [ 
 			0,
 			24,
-			73,
-			145 ],
+			48,
+			96,
+			168 ],
 		"ips": [ 
+			47,
 			44,
 			4,
 			1,
 			1 ],
-		"total": 50
+		"total": 97
 	}
 }

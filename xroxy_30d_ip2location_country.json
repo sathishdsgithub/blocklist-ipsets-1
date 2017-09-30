@@ -9,7 +9,7 @@
 	},
 	{
 		"code": "CA",
-		"value": 19
+		"value": 22
 	},
 	{
 		"code": "CN",
@@ -17,7 +17,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 50
+		"value": 51
 	},
 	{
 		"code": "FR",
@@ -29,11 +29,11 @@
 	},
 	{
 		"code": "HK",
-		"value": 2
+		"value": 3
 	},
 	{
 		"code": "ID",
-		"value": 65
+		"value": 63
 	},
 	{
 		"code": "IE",
@@ -41,11 +41,11 @@
 	},
 	{
 		"code": "IN",
-		"value": 26
+		"value": 27
 	},
 	{
 		"code": "JP",
-		"value": 25
+		"value": 23
 	},
 	{
 		"code": "KH",
@@ -97,7 +97,7 @@
 	},
 	{
 		"code": "US",
-		"value": 77
+		"value": 79
 	},
 	{
 		"code": "VN",

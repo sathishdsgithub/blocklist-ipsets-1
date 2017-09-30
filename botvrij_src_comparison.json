@@ -2,25 +2,25 @@
 	{
 		"name": "cybercrime",
 		"category": "malware",
-		"ips": 30533,
+		"ips": 30538,
 		"common": 1
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9431332,
+		"ips": 9430976,
 		"common": 1
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34541,
+		"ips": 34511,
 		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34743757,
+		"ips": 34743694,
 		"common": 2
 	},
 	{

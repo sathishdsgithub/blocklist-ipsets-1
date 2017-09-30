@@ -8,12 +8,12 @@
 		"value": 1
 	},
 	{
-		"code": "CN",
-		"value": 5
+		"code": "FR",
+		"value": 2
 	},
 	{
-		"code": "FR",
-		"value": 3
+		"code": "GB",
+		"value": 1
 	},
 	{
 		"code": "IE",
@@ -21,7 +21,7 @@
 	},
 	{
 		"code": "NL",
-		"value": 10
+		"value": 9
 	},
 	{
 		"code": "PL",

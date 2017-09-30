@@ -20,19 +20,19 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 651321912,
+		"ips": 651315019,
 		"common": 268435456
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9431332,
+		"ips": 9430976,
 		"common": 1
 	},
 	{
 		"name": "fullbogons",
 		"category": "unrouteable",
-		"ips": 626043784,
+		"ips": 626036616,
 		"common": 268435456
 	},
 	{
@@ -74,7 +74,7 @@
 	{
 		"name": "voipbl",
 		"category": "attacks",
-		"ips": 32913,
+		"ips": 32936,
 		"common": 2
 	}
 ]

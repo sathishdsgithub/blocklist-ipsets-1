@@ -33,11 +33,11 @@
 	},
 	{
 		"code": "DE",
-		"value": 6
+		"value": 4
 	},
 	{
 		"code": "ES",
-		"value": 7
+		"value": 9
 	},
 	{
 		"code": "FR",
@@ -45,7 +45,7 @@
 	},
 	{
 		"code": "GB",
-		"value": 5
+		"value": 7
 	},
 	{
 		"code": "ID",
@@ -76,6 +76,14 @@
 		"value": 12
 	},
 	{
+		"code": "NO",
+		"value": 1
+	},
+	{
+		"code": "NZ",
+		"value": 1
+	},
+	{
 		"code": "PL",
 		"value": 1
 	},
@@ -89,7 +97,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 10
+		"value": 9
 	},
 	{
 		"code": "SE",
@@ -109,11 +117,11 @@
 	},
 	{
 		"code": "UA",
-		"value": 9
+		"value": 8
 	},
 	{
 		"code": "US",
-		"value": 66
+		"value": 65
 	},
 	{
 		"code": "UZ",

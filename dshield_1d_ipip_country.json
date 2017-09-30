@@ -12,11 +12,7 @@
 		"value": 512
 	},
 	{
-		"code": "CN",
-		"value": 256
-	},
-	{
-		"code": "LU",
+		"code": "FR",
 		"value": 256
 	},
 	{
@@ -29,11 +25,11 @@
 	},
 	{
 		"code": "RU",
-		"value": 512
+		"value": 256
 	},
 	{
 		"code": "UA",
-		"value": 256
+		"value": 512
 	},
 	{
 		"code": "US",

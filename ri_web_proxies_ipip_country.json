@@ -4,24 +4,32 @@
 		"value": 1
 	},
 	{
-		"code": "AL",
-		"value": 1
-	},
-	{
 		"code": "AR",
-		"value": 3
+		"value": 2
 	},
 	{
-		"code": "AT",
+		"code": "AU",
 		"value": 1
 	},
 	{
-		"code": "BACKBONE",
+		"code": "BD",
+		"value": 1
+	},
+	{
+		"code": "BE",
+		"value": 1
+	},
+	{
+		"code": "BG",
+		"value": 1
+	},
+	{
+		"code": "BI",
 		"value": 1
 	},
 	{
 		"code": "BR",
-		"value": 14
+		"value": 18
 	},
 	{
 		"code": "BY",
@@ -32,32 +40,24 @@
 		"value": 2
 	},
 	{
-		"code": "CH",
+		"code": "CL",
 		"value": 2
 	},
 	{
-		"code": "CN",
-		"value": 6
-	},
-	{
-		"code": "CO",
-		"value": 1
-	},
-	{
 		"code": "DE",
-		"value": 6
+		"value": 5
 	},
 	{
-		"code": "EG",
+		"code": "EC",
 		"value": 1
 	},
 	{
 		"code": "ES",
-		"value": 3
+		"value": 2
 	},
 	{
 		"code": "FR",
-		"value": 8
+		"value": 5
 	},
 	{
 		"code": "GB",
@@ -68,31 +68,43 @@
 		"value": 1
 	},
 	{
-		"code": "HN",
-		"value": 1
-	},
-	{
-		"code": "HU",
-		"value": 1
-	},
-	{
 		"code": "ID",
-		"value": 2
+		"value": 1
 	},
 	{
 		"code": "IN",
 		"value": 1
 	},
 	{
-		"code": "IT",
+		"code": "IR",
 		"value": 1
+	},
+	{
+		"code": "IT",
+		"value": 3
 	},
 	{
 		"code": "JP",
 		"value": 1
 	},
 	{
-		"code": "LT",
+		"code": "KG",
+		"value": 1
+	},
+	{
+		"code": "KH",
+		"value": 3
+	},
+	{
+		"code": "KR",
+		"value": 1
+	},
+	{
+		"code": "KZ",
+		"value": 1
+	},
+	{
+		"code": "LB",
 		"value": 1
 	},
 	{
@@ -112,12 +124,12 @@
 		"value": 1
 	},
 	{
-		"code": "NL",
-		"value": 2
+		"code": "NC",
+		"value": 1
 	},
 	{
-		"code": "NO",
-		"value": 2
+		"code": "NL",
+		"value": 1
 	},
 	{
 		"code": "PK",
@@ -125,14 +137,14 @@
 	},
 	{
 		"code": "PL",
-		"value": 5
+		"value": 7
 	},
 	{
 		"code": "PT",
-		"value": 1
+		"value": 2
 	},
 	{
-		"code": "PY",
+		"code": "RS",
 		"value": 1
 	},
 	{
@@ -149,15 +161,19 @@
 	},
 	{
 		"code": "SK",
+		"value": 2
+	},
+	{
+		"code": "SY",
 		"value": 1
 	},
 	{
 		"code": "TH",
-		"value": 3
+		"value": 1
 	},
 	{
 		"code": "TR",
-		"value": 3
+		"value": 2
 	},
 	{
 		"code": "TZ",
@@ -165,14 +181,10 @@
 	},
 	{
 		"code": "UA",
-		"value": 3
+		"value": 8
 	},
 	{
 		"code": "US",
-		"value": 30
-	},
-	{
-		"code": "VN",
-		"value": 1
+		"value": 27
 	}
 ]

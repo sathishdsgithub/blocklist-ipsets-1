@@ -5,11 +5,11 @@
 	},
 	{
 		"code": "BG",
-		"value": 256
+		"value": 512
 	},
 	{
 		"code": "CA",
-		"value": 768
+		"value": 512
 	},
 	{
 		"code": "CH",
@@ -17,10 +17,14 @@
 	},
 	{
 		"code": "CN",
-		"value": 1024
+		"value": 512
 	},
 	{
 		"code": "ES",
+		"value": 256
+	},
+	{
+		"code": "FR",
 		"value": 256
 	},
 	{
@@ -41,7 +45,7 @@
 	},
 	{
 		"code": "NL",
-		"value": 3328
+		"value": 3584
 	},
 	{
 		"code": "RO",
@@ -49,7 +53,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 1536
+		"value": 1024
 	},
 	{
 		"code": "UA",
@@ -57,7 +61,7 @@
 	},
 	{
 		"code": "US",
-		"value": 3840
+		"value": 3584
 	},
 	{
 		"code": "VN",

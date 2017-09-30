@@ -41,7 +41,7 @@
 	},
 	{
 		"code": "AT",
-		"value": 62
+		"value": 63
 	},
 	{
 		"code": "AU",
@@ -129,7 +129,7 @@
 	},
 	{
 		"code": "CA",
-		"value": 433
+		"value": 435
 	},
 	{
 		"code": "CD",
@@ -337,7 +337,7 @@
 	},
 	{
 		"code": "IT",
-		"value": 1123
+		"value": 1124
 	},
 	{
 		"code": "JM",
@@ -517,11 +517,11 @@
 	},
 	{
 		"code": "NL",
-		"value": 195
+		"value": 196
 	},
 	{
 		"code": "NO",
-		"value": 101
+		"value": 102
 	},
 	{
 		"code": "NP",
@@ -561,7 +561,7 @@
 	},
 	{
 		"code": "PL",
-		"value": 385
+		"value": 386
 	},
 	{
 		"code": "PR",
@@ -701,7 +701,7 @@
 	},
 	{
 		"code": "US",
-		"value": 5114
+		"value": 5116
 	},
 	{
 		"code": "UY",

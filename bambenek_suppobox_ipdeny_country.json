@@ -4,7 +4,7 @@
 		"value": 2
 	},
 	{
-		"code": "CL",
+		"code": "CH",
 		"value": 1
 	},
 	{
@@ -13,23 +13,27 @@
 	},
 	{
 		"code": "DE",
-		"value": 5
+		"value": 7
+	},
+	{
+		"code": "DK",
+		"value": 1
 	},
 	{
 		"code": "FR",
-		"value": 2
-	},
-	{
-		"code": "GB",
 		"value": 3
 	},
 	{
-		"code": "HK",
-		"value": 1
+		"code": "GB",
+		"value": 4
 	},
 	{
 		"code": "JP",
 		"value": 2
+	},
+	{
+		"code": "KR",
+		"value": 1
 	},
 	{
 		"code": "RU",
@@ -37,6 +41,10 @@
 	},
 	{
 		"code": "US",
-		"value": 33
+		"value": 50
+	},
+	{
+		"code": "VG",
+		"value": 2
 	}
 ]

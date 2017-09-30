@@ -21,7 +21,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 34
+		"value": 36
 	},
 	{
 		"code": "DK",
@@ -37,7 +37,7 @@
 	},
 	{
 		"code": "FR",
-		"value": 8
+		"value": 9
 	},
 	{
 		"code": "GB",
@@ -49,11 +49,11 @@
 	},
 	{
 		"code": "HU",
-		"value": 1
+		"value": 2
 	},
 	{
 		"code": "IE",
-		"value": 2
+		"value": 3
 	},
 	{
 		"code": "IT",
@@ -73,7 +73,7 @@
 	},
 	{
 		"code": "NL",
-		"value": 9
+		"value": 8
 	},
 	{
 		"code": "PL",
@@ -101,6 +101,6 @@
 	},
 	{
 		"code": "US",
-		"value": 13
+		"value": 15
 	}
 ]

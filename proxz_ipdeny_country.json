@@ -1,11 +1,27 @@
 [
 	{
+		"code": "BR",
+		"value": 2
+	},
+	{
+		"code": "BY",
+		"value": 1
+	},
+	{
 		"code": "CA",
 		"value": 3
 	},
 	{
 		"code": "CN",
-		"value": 5
+		"value": 3
+	},
+	{
+		"code": "CO",
+		"value": 1
+	},
+	{
+		"code": "CZ",
+		"value": 1
 	},
 	{
 		"code": "FR",
@@ -14,14 +30,6 @@
 	{
 		"code": "GB",
 		"value": 3
-	},
-	{
-		"code": "ID",
-		"value": 1
-	},
-	{
-		"code": "IN",
-		"value": 1
 	},
 	{
 		"code": "JP",
@@ -33,7 +41,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 1
+		"value": 2
 	},
 	{
 		"code": "US",

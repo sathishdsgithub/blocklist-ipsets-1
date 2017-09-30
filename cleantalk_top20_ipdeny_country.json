@@ -4,6 +4,10 @@
 		"value": 3
 	},
 	{
+		"code": "DE",
+		"value": 1
+	},
+	{
 		"code": "LV",
 		"value": 1
 	},
@@ -13,7 +17,7 @@
 	},
 	{
 		"code": "UA",
-		"value": 5
+		"value": 4
 	},
 	{
 		"code": "US",

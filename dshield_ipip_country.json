@@ -5,19 +5,15 @@
 	},
 	{
 		"code": "BG",
-		"value": 256
-	},
-	{
-		"code": "CA",
 		"value": 512
 	},
 	{
-		"code": "LV",
+		"code": "CA",
 		"value": 256
 	},
 	{
 		"code": "NL",
-		"value": 2304
+		"value": 2816
 	},
 	{
 		"code": "UA",
@@ -25,6 +21,10 @@
 	},
 	{
 		"code": "US",
-		"value": 1280
+		"value": 768
+	},
+	{
+		"code": "VN",
+		"value": 256
 	}
 ]

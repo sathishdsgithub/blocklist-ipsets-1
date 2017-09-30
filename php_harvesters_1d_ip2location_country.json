@@ -1,38 +1,22 @@
 [
 	{
 		"code": "BD",
-		"value": 6
-	},
-	{
-		"code": "BG",
-		"value": 1
-	},
-	{
-		"code": "BJ",
-		"value": 1
-	},
-	{
-		"code": "BR",
 		"value": 3
 	},
 	{
-		"code": "CI",
-		"value": 2
-	},
-	{
-		"code": "CM",
-		"value": 1
+		"code": "BR",
+		"value": 4
 	},
 	{
 		"code": "CN",
-		"value": 12
+		"value": 16
 	},
 	{
 		"code": "CO",
-		"value": 1
+		"value": 2
 	},
 	{
-		"code": "COUNTRYLESS",
+		"code": "CR",
 		"value": 1
 	},
 	{
@@ -40,7 +24,7 @@
 		"value": 1
 	},
 	{
-		"code": "EG",
+		"code": "EC",
 		"value": 1
 	},
 	{
@@ -48,15 +32,15 @@
 		"value": 1
 	},
 	{
-		"code": "FJ",
+		"code": "FR",
 		"value": 2
 	},
 	{
-		"code": "FR",
+		"code": "GB",
 		"value": 1
 	},
 	{
-		"code": "GB",
+		"code": "GH",
 		"value": 2
 	},
 	{
@@ -65,94 +49,78 @@
 	},
 	{
 		"code": "ID",
-		"value": 3
-	},
-	{
-		"code": "IL",
-		"value": 1
+		"value": 5
 	},
 	{
 		"code": "IN",
-		"value": 13
+		"value": 5
+	},
+	{
+		"code": "IQ",
+		"value": 1
 	},
 	{
 		"code": "IR",
 		"value": 1
 	},
 	{
-		"code": "IT",
+		"code": "KE",
 		"value": 1
 	},
 	{
-		"code": "LB",
+		"code": "KR",
 		"value": 1
 	},
 	{
-		"code": "LK",
+		"code": "MR",
 		"value": 1
-	},
-	{
-		"code": "MK",
-		"value": 1
-	},
-	{
-		"code": "MY",
-		"value": 3
 	},
 	{
 		"code": "NG",
-		"value": 6
+		"value": 2
 	},
 	{
-		"code": "PH",
+		"code": "NL",
 		"value": 1
 	},
 	{
 		"code": "PK",
-		"value": 3
+		"value": 1
 	},
 	{
 		"code": "PL",
-		"value": 6
+		"value": 7
 	},
 	{
 		"code": "RO",
-		"value": 2
+		"value": 4
+	},
+	{
+		"code": "RU",
+		"value": 5
+	},
+	{
+		"code": "SA",
+		"value": 1
 	},
 	{
 		"code": "SN",
-		"value": 2
+		"value": 3
 	},
 	{
-		"code": "TH",
-		"value": 1
-	},
-	{
-		"code": "TW",
-		"value": 1
-	},
-	{
-		"code": "TZ",
+		"code": "TN",
 		"value": 1
 	},
 	{
 		"code": "UA",
-		"value": 2
-	},
-	{
-		"code": "US",
-		"value": 5
-	},
-	{
-		"code": "VN",
-		"value": 2
-	},
-	{
-		"code": "ZA",
 		"value": 1
 	},
 	{
-		"code": "ZM",
+		"code": "US",
+		"value": 9
+	},
+	{
+		"code": "VN",
 		"value": 1
 	}
 ]

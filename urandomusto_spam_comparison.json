@@ -2,13 +2,13 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34743757,
+		"ips": 34743694,
 		"common": 1
 	},
 	{
 		"name": "hphosts_fsa",
 		"category": "reputation",
-		"ips": 27282,
+		"ips": 27247,
 		"common": 1
 	},
 	{

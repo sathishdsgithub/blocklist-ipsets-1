@@ -1,7 +1,7 @@
 [
 	{
 		"code": "CN",
-		"value": 20
+		"value": 22
 	},
 	{
 		"code": "EU",
@@ -17,11 +17,11 @@
 	},
 	{
 		"code": "IS",
-		"value": 1
+		"value": 2
 	},
 	{
 		"code": "NL",
-		"value": 6
+		"value": 7
 	},
 	{
 		"code": "RO",
@@ -33,7 +33,7 @@
 	},
 	{
 		"code": "US",
-		"value": 122
+		"value": 125
 	},
 	{
 		"code": "VN",
@@ -41,6 +41,6 @@
 	},
 	{
 		"code": "ZA",
-		"value": 14
+		"value": 15
 	}
 ]

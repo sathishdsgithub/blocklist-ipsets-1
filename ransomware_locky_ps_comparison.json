@@ -2,19 +2,19 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 651321912,
+		"ips": 651315019,
 		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34743757,
+		"ips": 34743694,
 		"common": 3
 	},
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
-		"ips": 27487,
+		"ips": 27530,
 		"common": 3
 	},
 	{
@@ -44,13 +44,13 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5160,
+		"ips": 5166,
 		"common": 3
 	},
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 344,
+		"ips": 342,
 		"common": 2
 	}
 ]

@@ -13,7 +13,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 2816
+		"value": 2560
 	},
 	{
 		"code": "DE",
@@ -29,7 +29,7 @@
 	},
 	{
 		"code": "GB",
-		"value": 1024
+		"value": 1280
 	},
 	{
 		"code": "HK",
@@ -53,7 +53,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 5376
+		"value": 4864
 	},
 	{
 		"code": "UA",

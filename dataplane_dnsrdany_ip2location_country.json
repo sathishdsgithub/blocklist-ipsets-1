@@ -4,12 +4,8 @@
 		"value": 1
 	},
 	{
-		"code": "CN",
-		"value": 5
-	},
-	{
 		"code": "FR",
-		"value": 3
+		"value": 2
 	},
 	{
 		"code": "IE",
@@ -17,7 +13,7 @@
 	},
 	{
 		"code": "NL",
-		"value": 10
+		"value": 11
 	},
 	{
 		"code": "PL",
@@ -29,10 +25,6 @@
 	},
 	{
 		"code": "RU",
-		"value": 1
-	},
-	{
-		"code": "SC",
 		"value": 1
 	},
 	{

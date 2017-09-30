@@ -1,79 +1,23 @@
 [
 	{
-		"code": "BG",
-		"value": 2
-	},
-	{
-		"code": "BR",
-		"value": 2
+		"code": "AZ",
+		"value": 1
 	},
 	{
 		"code": "CA",
 		"value": 1
 	},
 	{
-		"code": "CH",
-		"value": 1
-	},
-	{
-		"code": "CN",
-		"value": 1
-	},
-	{
-		"code": "CO",
-		"value": 2
-	},
-	{
 		"code": "CY",
-		"value": 2
-	},
-	{
-		"code": "DE",
-		"value": 10
-	},
-	{
-		"code": "HK",
 		"value": 1
 	},
 	{
-		"code": "ID",
+		"code": "FR",
 		"value": 1
 	},
 	{
-		"code": "IL",
+		"code": "GB",
 		"value": 1
-	},
-	{
-		"code": "IT",
-		"value": 1
-	},
-	{
-		"code": "KR",
-		"value": 2
-	},
-	{
-		"code": "KW",
-		"value": 1
-	},
-	{
-		"code": "NL",
-		"value": 8
-	},
-	{
-		"code": "PL",
-		"value": 1
-	},
-	{
-		"code": "RO",
-		"value": 2
-	},
-	{
-		"code": "RU",
-		"value": 3
-	},
-	{
-		"code": "SC",
-		"value": 4
 	},
 	{
 		"code": "SE",
@@ -81,14 +25,10 @@
 	},
 	{
 		"code": "UA",
-		"value": 2
+		"value": 1
 	},
 	{
 		"code": "US",
-		"value": 27
-	},
-	{
-		"code": "ZA",
-		"value": 1
+		"value": 5
 	}
 ]

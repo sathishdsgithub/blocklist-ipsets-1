@@ -20,25 +20,25 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 133642,
+		"ips": 133644,
 		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 112349,
+		"ips": 111645,
 		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34743757,
+		"ips": 34743694,
 		"common": 258
 	},
 	{
 		"name": "hphosts_psh",
 		"category": "reputation",
-		"ips": 32666,
+		"ips": 32654,
 		"common": 1
 	},
 	{
@@ -62,7 +62,7 @@
 	{
 		"name": "myip",
 		"category": "abuse",
-		"ips": 4259,
+		"ips": 4133,
 		"common": 1
 	},
 	{

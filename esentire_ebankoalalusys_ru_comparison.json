@@ -6,9 +6,15 @@
 		"common": 90
 	},
 	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 15716,
+		"common": 1
+	},
+	{
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
-		"ips": 58756,
+		"ips": 58821,
 		"common": 1
 	},
 	{
@@ -26,19 +32,19 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 607809,
+		"ips": 613520,
 		"common": 3
 	},
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 312171,
+		"ips": 312164,
 		"common": 1
 	},
 	{
 		"name": "dronebl_ddos_drones",
 		"category": "attacks",
-		"ips": 366964,
+		"ips": 366958,
 		"common": 1
 	},
 	{
@@ -182,20 +188,20 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 112349,
+		"ips": 111645,
 		"common": 71
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9431332,
-		"common": 1
+		"ips": 9430976,
+		"common": 2
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34541,
-		"common": 71
+		"ips": 34511,
+		"common": 72
 	},
 	{
 		"name": "iblocklist_ads",
@@ -254,13 +260,25 @@
 	{
 		"name": "lashback_ubl",
 		"category": "spam",
-		"ips": 1850724,
-		"common": 2
+		"ips": 1824996,
+		"common": 1
 	},
 	{
 		"name": "malwaredomainlist",
 		"category": "malware",
 		"ips": 1030,
+		"common": 1
+	},
+	{
+		"name": "ransomware_feed",
+		"category": "malware",
+		"ips": 5166,
+		"common": 1
+	},
+	{
+		"name": "ransomware_online",
+		"category": "malware",
+		"ips": 158,
 		"common": 1
 	},
 	{
@@ -290,7 +308,7 @@
 	{
 		"name": "sslbl_aggressive",
 		"category": "malware",
-		"ips": 3138,
+		"ips": 3141,
 		"common": 71
 	},
 	{

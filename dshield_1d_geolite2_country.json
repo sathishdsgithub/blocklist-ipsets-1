@@ -5,7 +5,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 512
+		"value": 256
 	},
 	{
 		"code": "DE",
@@ -37,11 +37,11 @@
 	},
 	{
 		"code": "UA",
-		"value": 256
+		"value": 512
 	},
 	{
 		"code": "US",
-		"value": 2816
+		"value": 2560
 	},
 	{
 		"code": "VN",

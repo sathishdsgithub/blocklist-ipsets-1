@@ -57,7 +57,7 @@
 	},
 	{
 		"code": "BR",
-		"value": 108
+		"value": 109
 	},
 	{
 		"code": "BT",
@@ -117,7 +117,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 383
+		"value": 384
 	},
 	{
 		"code": "DK",
@@ -193,7 +193,7 @@
 	},
 	{
 		"code": "HK",
-		"value": 60
+		"value": 62
 	},
 	{
 		"code": "HN",
@@ -237,7 +237,7 @@
 	},
 	{
 		"code": "IT",
-		"value": 121
+		"value": 122
 	},
 	{
 		"code": "JM",
@@ -413,7 +413,7 @@
 	},
 	{
 		"code": "RS",
-		"value": 16
+		"value": 17
 	},
 	{
 		"code": "RU",
@@ -489,7 +489,7 @@
 	},
 	{
 		"code": "US",
-		"value": 3140
+		"value": 3141
 	},
 	{
 		"code": "UY",

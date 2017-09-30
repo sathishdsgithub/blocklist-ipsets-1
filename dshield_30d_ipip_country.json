@@ -17,7 +17,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 2304
+		"value": 2048
 	},
 	{
 		"code": "DE",
@@ -29,7 +29,7 @@
 	},
 	{
 		"code": "FR",
-		"value": 768
+		"value": 1024
 	},
 	{
 		"code": "GB",
@@ -69,7 +69,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 3072
+		"value": 2560
 	},
 	{
 		"code": "SG",

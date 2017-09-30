@@ -65,7 +65,7 @@
 	},
 	{
 		"code": "NL",
-		"value": 29
+		"value": 28
 	},
 	{
 		"code": "RO",
@@ -73,7 +73,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 116
+		"value": 117
 	},
 	{
 		"code": "SE",
@@ -89,6 +89,6 @@
 	},
 	{
 		"code": "US",
-		"value": 40
+		"value": 38
 	}
 ]

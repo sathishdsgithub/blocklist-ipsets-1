@@ -73,7 +73,7 @@
 	},
 	{
 		"code": "BG",
-		"value": 173
+		"value": 174
 	},
 	{
 		"code": "BH",
@@ -101,7 +101,7 @@
 	},
 	{
 		"code": "BR",
-		"value": 1594
+		"value": 1597
 	},
 	{
 		"code": "BS",
@@ -121,7 +121,7 @@
 	},
 	{
 		"code": "CA",
-		"value": 658
+		"value": 657
 	},
 	{
 		"code": "CD",
@@ -149,7 +149,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 609
+		"value": 607
 	},
 	{
 		"code": "CO",
@@ -173,7 +173,7 @@
 	},
 	{
 		"code": "CY",
-		"value": 29
+		"value": 30
 	},
 	{
 		"code": "CZ",
@@ -189,7 +189,7 @@
 	},
 	{
 		"code": "DK",
-		"value": 92
+		"value": 91
 	},
 	{
 		"code": "DM",
@@ -241,7 +241,7 @@
 	},
 	{
 		"code": "GB",
-		"value": 846
+		"value": 848
 	},
 	{
 		"code": "GD",
@@ -317,15 +317,15 @@
 	},
 	{
 		"code": "HU",
-		"value": 288
+		"value": 287
 	},
 	{
 		"code": "ID",
-		"value": 582
+		"value": 583
 	},
 	{
 		"code": "IE",
-		"value": 88
+		"value": 87
 	},
 	{
 		"code": "IL",
@@ -365,7 +365,7 @@
 	},
 	{
 		"code": "JP",
-		"value": 352
+		"value": 351
 	},
 	{
 		"code": "KE",
@@ -385,7 +385,7 @@
 	},
 	{
 		"code": "KR",
-		"value": 491
+		"value": 490
 	},
 	{
 		"code": "KW",
@@ -465,7 +465,7 @@
 	},
 	{
 		"code": "MK",
-		"value": 108
+		"value": 106
 	},
 	{
 		"code": "ML",
@@ -541,7 +541,7 @@
 	},
 	{
 		"code": "NL",
-		"value": 694
+		"value": 695
 	},
 	{
 		"code": "NO",
@@ -557,7 +557,7 @@
 	},
 	{
 		"code": "NZ",
-		"value": 89
+		"value": 88
 	},
 	{
 		"code": "OM",
@@ -617,7 +617,7 @@
 	},
 	{
 		"code": "RO",
-		"value": 917
+		"value": 916
 	},
 	{
 		"code": "RS",
@@ -625,7 +625,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 1050
+		"value": 1051
 	},
 	{
 		"code": "RW",
@@ -649,7 +649,7 @@
 	},
 	{
 		"code": "SG",
-		"value": 216
+		"value": 215
 	},
 	{
 		"code": "SI",
@@ -717,7 +717,7 @@
 	},
 	{
 		"code": "TR",
-		"value": 377
+		"value": 376
 	},
 	{
 		"code": "TT",
@@ -733,7 +733,7 @@
 	},
 	{
 		"code": "UA",
-		"value": 736
+		"value": 731
 	},
 	{
 		"code": "UG",
@@ -741,7 +741,7 @@
 	},
 	{
 		"code": "US",
-		"value": 3341
+		"value": 3320
 	},
 	{
 		"code": "UY",

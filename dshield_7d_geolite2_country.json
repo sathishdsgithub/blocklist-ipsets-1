@@ -1,11 +1,7 @@
 [
 	{
-		"code": "BR",
-		"value": 8
-	},
-	{
 		"code": "CA",
-		"value": 408
+		"value": 256
 	},
 	{
 		"code": "CH",
@@ -13,7 +9,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 1280
+		"value": 768
 	},
 	{
 		"code": "DE",
@@ -36,28 +32,20 @@
 		"value": 256
 	},
 	{
-		"code": "IN",
-		"value": 24
-	},
-	{
 		"code": "LV",
 		"value": 256
 	},
 	{
 		"code": "NL",
-		"value": 516
+		"value": 772
 	},
 	{
 		"code": "RU",
-		"value": 3584
+		"value": 3328
 	},
 	{
 		"code": "SC",
 		"value": 1264
-	},
-	{
-		"code": "TR",
-		"value": 16
 	},
 	{
 		"code": "UA",
@@ -65,7 +53,7 @@
 	},
 	{
 		"code": "US",
-		"value": 5144
+		"value": 5120
 	},
 	{
 		"code": "VN",

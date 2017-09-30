@@ -9,11 +9,11 @@
 	},
 	{
 		"code": "CN",
-		"value": 72
+		"value": 73
 	},
 	{
 		"code": "CZ",
-		"value": 1
+		"value": 3
 	},
 	{
 		"code": "EG",
@@ -21,7 +21,7 @@
 	},
 	{
 		"code": "HK",
-		"value": 1
+		"value": 2
 	},
 	{
 		"code": "HR",
@@ -49,7 +49,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 10
+		"value": 8
 	},
 	{
 		"code": "SC",

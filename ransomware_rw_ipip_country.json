@@ -45,7 +45,7 @@
 	},
 	{
 		"code": "IT",
-		"value": 3
+		"value": 2
 	},
 	{
 		"code": "KZ",
@@ -69,7 +69,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 127
+		"value": 128
 	},
 	{
 		"code": "TR",
@@ -81,6 +81,6 @@
 	},
 	{
 		"code": "US",
-		"value": 42
+		"value": 40
 	}
 ]

@@ -2,7 +2,7 @@
 	{
 		"name": "dronebl_ddos_drones",
 		"category": "attacks",
-		"ips": 366964,
+		"ips": 366958,
 		"common": 1
 	},
 	{
@@ -34,12 +34,6 @@
 		"category": "organizations",
 		"ips": 16795139,
 		"common": 8
-	},
-	{
-		"name": "nixspam",
-		"category": "spam",
-		"ips": 16801,
-		"common": 9
 	},
 	{
 		"name": "sorbs_new_spam",

@@ -4,6 +4,10 @@
 		"value": 2
 	},
 	{
+		"code": "AL",
+		"value": 1
+	},
+	{
 		"code": "AR",
 		"value": 1
 	},
@@ -13,47 +17,43 @@
 	},
 	{
 		"code": "AU",
-		"value": 20
+		"value": 21
 	},
 	{
 		"code": "AZ",
 		"value": 1
 	},
 	{
-		"code": "BR",
-		"value": 6
+		"code": "BE",
+		"value": 1
 	},
 	{
-		"code": "CA",
+		"code": "BR",
 		"value": 5
 	},
 	{
-		"code": "CI",
-		"value": 1
+		"code": "CA",
+		"value": 6
 	},
 	{
 		"code": "CL",
-		"value": 1
+		"value": 3
 	},
 	{
 		"code": "CN",
-		"value": 469
+		"value": 337
 	},
 	{
 		"code": "CZ",
-		"value": 2
-	},
-	{
-		"code": "DE",
-		"value": 14
-	},
-	{
-		"code": "DK",
 		"value": 1
 	},
 	{
+		"code": "DE",
+		"value": 15
+	},
+	{
 		"code": "ES",
-		"value": 7
+		"value": 9
 	},
 	{
 		"code": "FR",
@@ -61,11 +61,11 @@
 	},
 	{
 		"code": "GB",
-		"value": 10
+		"value": 8
 	},
 	{
 		"code": "HK",
-		"value": 9
+		"value": 7
 	},
 	{
 		"code": "ID",
@@ -77,23 +77,19 @@
 	},
 	{
 		"code": "IN",
-		"value": 10
+		"value": 9
 	},
 	{
 		"code": "IR",
 		"value": 2
 	},
 	{
-		"code": "IS",
-		"value": 1
-	},
-	{
 		"code": "IT",
-		"value": 2
+		"value": 4
 	},
 	{
 		"code": "JP",
-		"value": 10
+		"value": 8
 	},
 	{
 		"code": "KR",
@@ -104,12 +100,16 @@
 		"value": 1
 	},
 	{
+		"code": "LV",
+		"value": 1
+	},
+	{
 		"code": "MA",
 		"value": 3
 	},
 	{
 		"code": "MY",
-		"value": 4
+		"value": 3
 	},
 	{
 		"code": "NL",
@@ -117,7 +117,7 @@
 	},
 	{
 		"code": "NO",
-		"value": 1
+		"value": 2
 	},
 	{
 		"code": "PH",
@@ -125,7 +125,7 @@
 	},
 	{
 		"code": "PL",
-		"value": 3
+		"value": 5
 	},
 	{
 		"code": "PS",
@@ -133,15 +133,15 @@
 	},
 	{
 		"code": "PT",
-		"value": 2
+		"value": 1
 	},
 	{
 		"code": "RO",
-		"value": 3
+		"value": 2
 	},
 	{
 		"code": "RU",
-		"value": 16
+		"value": 12
 	},
 	{
 		"code": "SE",
@@ -152,16 +152,8 @@
 		"value": 10
 	},
 	{
-		"code": "SK",
-		"value": 1
-	},
-	{
 		"code": "TH",
-		"value": 3
-	},
-	{
-		"code": "TN",
-		"value": 1
+		"value": 2
 	},
 	{
 		"code": "TR",
@@ -169,7 +161,7 @@
 	},
 	{
 		"code": "TW",
-		"value": 7
+		"value": 4
 	},
 	{
 		"code": "UA",
@@ -177,18 +169,14 @@
 	},
 	{
 		"code": "US",
-		"value": 122
+		"value": 116
 	},
 	{
 		"code": "VN",
-		"value": 3
+		"value": 1
 	},
 	{
 		"code": "ZA",
 		"value": 3
-	},
-	{
-		"code": "ZW",
-		"value": 1
 	}
 ]

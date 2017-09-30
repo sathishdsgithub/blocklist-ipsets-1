@@ -1,23 +1,67 @@
 [
 	{
+		"code": "CH",
+		"value": 1
+	},
+	{
 		"code": "CZ",
 		"value": 3
+	},
+	{
+		"code": "DE",
+		"value": 1
+	},
+	{
+		"code": "ES",
+		"value": 1
 	},
 	{
 		"code": "EU",
 		"value": 1
 	},
 	{
-		"code": "KZ",
+		"code": "FI",
+		"value": 1
+	},
+	{
+		"code": "FR",
+		"value": 1
+	},
+	{
+		"code": "GB",
+		"value": 1
+	},
+	{
+		"code": "GE",
+		"value": 3
+	},
+	{
+		"code": "IT",
 		"value": 2
 	},
 	{
+		"code": "KZ",
+		"value": 3
+	},
+	{
+		"code": "PL",
+		"value": 1
+	},
+	{
 		"code": "RU",
-		"value": 80
+		"value": 84
+	},
+	{
+		"code": "SE",
+		"value": 1
+	},
+	{
+		"code": "SK",
+		"value": 1
 	},
 	{
 		"code": "UA",
-		"value": 1
+		"value": 12
 	},
 	{
 		"code": "US",

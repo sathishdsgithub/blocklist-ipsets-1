@@ -13,7 +13,11 @@
 	},
 	{
 		"code": "CN",
-		"value": 72
+		"value": 73
+	},
+	{
+		"code": "COUNTRYLESS",
+		"value": 2
 	},
 	{
 		"code": "EG",
@@ -21,7 +25,7 @@
 	},
 	{
 		"code": "HK",
-		"value": 1
+		"value": 2
 	},
 	{
 		"code": "IL",
@@ -49,7 +53,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 8
+		"value": 6
 	},
 	{
 		"code": "SC",

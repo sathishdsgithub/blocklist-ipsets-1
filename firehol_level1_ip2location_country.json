@@ -37,7 +37,7 @@
 	},
 	{
 		"code": "BG",
-		"value": 69142
+		"value": 69398
 	},
 	{
 		"code": "BH",
@@ -61,11 +61,11 @@
 	},
 	{
 		"code": "CA",
-		"value": 416558
+		"value": 416557
 	},
 	{
 		"code": "CH",
-		"value": 140303
+		"value": 140305
 	},
 	{
 		"code": "CI",
@@ -73,11 +73,11 @@
 	},
 	{
 		"code": "CL",
-		"value": 131078
+		"value": 131077
 	},
 	{
 		"code": "CN",
-		"value": 10569759
+		"value": 10569504
 	},
 	{
 		"code": "CO",
@@ -85,7 +85,7 @@
 	},
 	{
 		"code": "COUNTRYLESS",
-		"value": 626052106
+		"value": 626044938
 	},
 	{
 		"code": "CR",
@@ -101,11 +101,11 @@
 	},
 	{
 		"code": "DE",
-		"value": 589551
+		"value": 589554
 	},
 	{
 		"code": "DK",
-		"value": 10249
+		"value": 10250
 	},
 	{
 		"code": "EC",
@@ -133,7 +133,7 @@
 	},
 	{
 		"code": "FR",
-		"value": 205271
+		"value": 205275
 	},
 	{
 		"code": "GA",
@@ -141,7 +141,7 @@
 	},
 	{
 		"code": "GB",
-		"value": 928917
+		"value": 928662
 	},
 	{
 		"code": "GE",
@@ -157,7 +157,7 @@
 	},
 	{
 		"code": "HK",
-		"value": 33820
+		"value": 33819
 	},
 	{
 		"code": "HN",
@@ -169,7 +169,7 @@
 	},
 	{
 		"code": "HU",
-		"value": 139272
+		"value": 139273
 	},
 	{
 		"code": "ID",
@@ -177,7 +177,7 @@
 	},
 	{
 		"code": "IE",
-		"value": 2059
+		"value": 2060
 	},
 	{
 		"code": "IL",
@@ -269,7 +269,7 @@
 	},
 	{
 		"code": "NL",
-		"value": 176551
+		"value": 177061
 	},
 	{
 		"code": "NO",
@@ -317,7 +317,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 90179
+		"value": 90181
 	},
 	{
 		"code": "SA",
@@ -325,7 +325,7 @@
 	},
 	{
 		"code": "SC",
-		"value": 144897
+		"value": 145153
 	},
 	{
 		"code": "SE",
@@ -333,7 +333,7 @@
 	},
 	{
 		"code": "SG",
-		"value": 56591
+		"value": 56590
 	},
 	{
 		"code": "SI",
@@ -353,7 +353,7 @@
 	},
 	{
 		"code": "TR",
-		"value": 18
+		"value": 17
 	},
 	{
 		"code": "TT",
@@ -365,11 +365,11 @@
 	},
 	{
 		"code": "UA",
-		"value": 29007
+		"value": 28752
 	},
 	{
 		"code": "US",
-		"value": 6322902
+		"value": 6322655
 	},
 	{
 		"code": "UY",
@@ -385,7 +385,7 @@
 	},
 	{
 		"code": "VN",
-		"value": 91144
+		"value": 91400
 	},
 	{
 		"code": "ZA",

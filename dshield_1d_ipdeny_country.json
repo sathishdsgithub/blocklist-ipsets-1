@@ -5,7 +5,11 @@
 	},
 	{
 		"code": "CN",
-		"value": 512
+		"value": 256
+	},
+	{
+		"code": "GB",
+		"value": 256
 	},
 	{
 		"code": "LV",
@@ -13,7 +17,7 @@
 	},
 	{
 		"code": "NL",
-		"value": 1280
+		"value": 1024
 	},
 	{
 		"code": "RU",
@@ -21,11 +25,11 @@
 	},
 	{
 		"code": "UA",
-		"value": 256
+		"value": 512
 	},
 	{
 		"code": "US",
-		"value": 2304
+		"value": 2048
 	},
 	{
 		"code": "VN",
